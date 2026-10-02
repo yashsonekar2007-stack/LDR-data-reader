@@ -7,14 +7,3 @@ Actuators: 5V/3.3V LED (with a
 220
  current-limiting resistor)
 Hookup: Breadboard and jumper wires
-#  Software & Cloud Setup
-1. ThingSpeak Configuration
-Sign up or log into ThingSpeak.
-Create a New Channel.
-Enable Field 1 and name it something descriptive (e.g., Ambient Light Level).
-Navigate to the API Keys tab and copy your Channel ID and Write API Key.
-3. Code Customization
-Open the code and replace the placeholder values with your specific ThingSpeak credentials:
-
-unsigned long myChannelNumber = YOUR_CHANNEL_ID;  // Replace with your actual Channel ID
-const char* myApiKey = "YOUR_WRITE_API_KEY";     // Replace with your actual Write API Key
