@@ -5,7 +5,6 @@ Microcontroller: ESP32 Development Board
 Sensors: LDR (Photoresistor) Module
 Actuators: 5V/3.3V LED (with a 
 220
-Ω
  current-limiting resistor)
 Hookup: Breadboard and jumper wires
 #  Software & Cloud Setup
