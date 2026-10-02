@@ -10,3 +10,8 @@ Actuators: 5V/3.3V LED (with a
  current-limiting resistor)
  <br>
 Hookup: Breadboard and jumper wires
+# 🚀 Features
+Smart Automation: Automatically toggles the LED based on a customizable brightness threshold. <br>
+Cloud Logging: Uploads real-time sensory data to ThingSpeak every 15 seconds.<br>
+Virtual WiFi Support: Configured to seamlessly connect to Wokwi's virtual WiFi access point.<br>
+Serial Diagnostics: Outputs clear debugging information to the Serial Monitor.<br>
